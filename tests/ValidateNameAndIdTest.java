@@ -1,7 +1,5 @@
 package tests;
 
-import static org.junit.validator.AnnotationValidator;
-
 /**
  * ValidateNameAndId
  */
